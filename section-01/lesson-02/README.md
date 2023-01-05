@@ -1,4 +1,5 @@
-# Estágios do Git
+# Adicionando arquivos e fazendo as configurações iniciais do git
+## Estágios do Git
 O git possui 3 estágios.
 - Working Directory
 - Staging Area
