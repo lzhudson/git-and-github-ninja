@@ -1,4 +1,6 @@
-# O que é o Git?
+# Introdução
+
+## O que é o Git?
 É um sistema de controle de versão, usado para projetos de desenvolvimento porém pode ser usado para outros tipos de projeto como imagens, textos. Ele permite controlar as versões desses projetos.
 
 ## Comandos
